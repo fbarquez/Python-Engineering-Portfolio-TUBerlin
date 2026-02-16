@@ -1,0 +1,23 @@
+# Virtual environment
+py_ing_env/
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data files (optional, but good to keep repo clean if they are large)
+*.zip
+*.csv
+*.gif
+*.pdf
+
+# Exception: keep specific data files if they are small and needed for the notebooks
+!Portfolio_Projects/PA3_Data_Processing_NumPy/*.csv
+!Portfolio_Projects/PA4_Statistical_Analysis/*.gif
+!Portfolio_Projects/PA5_Object_Oriented_Model/*.csv
