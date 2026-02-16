@@ -15,9 +15,6 @@ Applied engineering problems using specialized libraries.
 *   **PA4_Statistical_Analysis**: Statistical data processing and dynamic graphical representations.
 *   **PA5_Object_Oriented_Model**: Software design using Object-Oriented Programming (OOP) principles to model engineering systems.
 
-### 3. [Final Capstone](./Final_Capstone/)
-*   **Individual_Final_Project**: A comprehensive, autonomous project applying all the skills acquired throughout the course.
-
 ---
 **Author:** F. Barquez
 **Institution:** TU Berlin
